@@ -1,0 +1,14 @@
+@import "./variables.scss";
+@import "./header.scss";
+@import "./card-job.scss";
+@import "./partner-logo.scss";
+@import "./button-click.scss";
+@import "./home.scss";
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: 'Slabo 27px', serif;
+  font-family: 'Arimo', sans-serif;
+}

@@ -1,0 +1,28 @@
+.banner{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  .group-banner{
+    img{
+      width: 100%;
+      height: 500px;
+      object-fit: cover;
+    }
+  }
+}
+
+
+.job{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .group-job{
+    width: 80%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+
+  }
+}

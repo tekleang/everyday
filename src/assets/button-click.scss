@@ -1,0 +1,16 @@
+.button{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  button{
+    padding: 0;
+    width: 168px;
+    height: 40px;
+    font-size: 16px;
+    color: #FAAD1D;
+    border: none;
+    background: #1DA1F2;
+    text-transform: capitalize;
+  }
+}
